@@ -1,0 +1,7 @@
+#Mon Feb 06 20:01:13 EST 2017
+base.0=/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d26b6da3184c1bf3da3ac0fb983892a080978b6c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b8b43978a68e054645e674c93f260dddbdabbdbd/classes.dex
+base.1=/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b8b43978a68e054645e674c93f260dddbdabbdbd
+file.0=/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d26b6da3184c1bf3da3ac0fb983892a080978b6c/classes.dex

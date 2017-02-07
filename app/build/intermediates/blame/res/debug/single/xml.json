@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/katya/iGaidhligProjects/literatim2/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/res/merged/debug/xml/symbols_shift.xml",
+        "source": "/Users/katya/iGaidhligProjects/literatim2/app/src/main/res/xml/symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/res/merged/debug/xml/qwerty.xml",
+        "source": "/Users/katya/iGaidhligProjects/literatim2/app/src/main/res/xml/qwerty.xml"
+    },
+    {
+        "merged": "/Users/katya/iGaidhligProjects/literatim2/app/build/intermediates/res/merged/debug/xml/symbols.xml",
+        "source": "/Users/katya/iGaidhligProjects/literatim2/app/src/main/res/xml/symbols.xml"
+    }
+]
