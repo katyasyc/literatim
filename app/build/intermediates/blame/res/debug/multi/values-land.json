@@ -22,5 +22,29 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/Users/katya/iGaidhligProjects/literatimtest/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/katya/iGaidhligProjects/literatimtest/app/src/main/res/values-land/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 42,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
     }
 ]
